@@ -1,17 +1,20 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Wangxiang
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
+=======
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiang
+last_name: Wang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️💻🎧🏃📖
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SouthWest Jiaotong University,SWJTU
+    url: https://en.swjtu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
